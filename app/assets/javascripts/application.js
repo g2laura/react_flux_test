@@ -16,4 +16,7 @@
 //= require react
 //= require react_ujs
 //= require components
+//= require Flux.module
+//= require events.module
 //= require_tree .
+
